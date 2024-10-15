@@ -44,10 +44,14 @@ The key is only available during the session and will expire once the session en
    nltk.download('punkt')
 
 ## References
-
+#### Chroma DB
 Guides for ChromaDB: https://docs.trychroma.com/guides
 
+#### LangChain
 Guides for LangChain: https://python.langchain.com/docs/how_to/
 
+- **Vector Stores**: https://python.langchain.com/docs/integrations/vectorstores/
+- **Retrievers**: https://python.langchain.com/docs/integrations/retrievers/
+  
 Another tutorial on RAG using LangChain: https://python.langchain.com/docs/tutorials/rag/
 
