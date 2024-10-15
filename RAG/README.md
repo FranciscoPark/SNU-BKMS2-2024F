@@ -26,19 +26,7 @@ The key is only available during the session and will expire once the session en
 
 ## Setup
 
-1. **Load `data.zip`**: Download `data.zip` from this directory and upload it in your Colab notebook:
-
-- You can download `data.zip` by pressing the `raw` button.
-
-<p align="center">
-  <img width="70%" src="https://github.com/user-attachments/assets/0edb8d15-1feb-438a-946c-feb5057ae4a7">
-</p>
-
-- You can upload it by drag-and-drop in Colab notebook directory.
-
-<p align="center">
-  <img width="70%" src="https://github.com/user-attachments/assets/902a555c-32cb-4941-82e4-ff57678775c4">
-</p>
+1. **Load `data.zip`**: Download `data.zip` from this directory and upload it in your Colab notebook
 
 3. **Unzip the file**: Unzip the data by running the following command in Colab:
 
