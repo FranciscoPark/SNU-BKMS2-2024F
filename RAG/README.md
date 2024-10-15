@@ -26,7 +26,7 @@ The key is only available during the session and will expire once the session en
 
 ## Setup
 
-1. **Download `data.zip` from this directory and upload it in your Colab notebook**:
+1. **Load `data.zip`**: Download `data.zip` from this directory and upload it in your Colab notebook:
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/0edb8d15-1feb-438a-946c-feb5057ae4a7">
