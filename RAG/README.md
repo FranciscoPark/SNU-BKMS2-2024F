@@ -27,18 +27,25 @@ The key is only available during the session and will expire once the session en
 ## Setup
 
 1. **Download `data.zip`**: Please download the `data.zip` file and upload it to your Google Colab environment.
-2. **Unzip the file**: Unzip the data by running the following command in Colab:
+<p align="center">
+  <img width="70%" src="https://github.com/user-attachments/assets/0edb8d15-1feb-438a-946c-feb5057ae4a7">
+</p>
+<p align="center">
+  <img width="70%" src="https://github.com/user-attachments/assets/902a555c-32cb-4941-82e4-ff57678775c4">
+</p>
+
+3. **Unzip the file**: Unzip the data by running the following command in Colab:
 
     ```bash
     !unzip /content/data.zip -d /content
     ```
 
-3. **Install dependencies**: Install the required Python packages listed in the `requirements.txt` file:
+4. **Install dependencies**: Install the required Python packages listed in the `requirements.txt` file:
 
     ```bash
     !pip install -r /content/data/requirements.txt
     ```
-4. **Download `punkt` module**: Run the following command to download necessary NLTK module:
+5. **Download `punkt` module**: Run the following command to download necessary NLTK module:
    ```bash
    import nltk
    nltk.download('punkt')
