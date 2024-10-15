@@ -26,11 +26,11 @@ The key is only available during the session and will expire once the session en
 
 ## Setup
 
-1. **Download and upload `data.zip`**: Please download the `data.zip` file and upload it to your Google Colab environment.
+1. **Download and upload `data.zip`**: 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/0edb8d15-1feb-438a-946c-feb5057ae4a7">
 </p>
--------
+- Upload it to your Google Colab environment.
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/902a555c-32cb-4941-82e4-ff57678775c4">
 </p>
