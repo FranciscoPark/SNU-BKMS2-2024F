@@ -12,7 +12,7 @@ The data for this session is collected from the Graduate School of Data Science 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
 </p>
-<p align="center"> source: [gradientflow.com](https://gradientflow.com/best-practices-in-retrieval-augmented-generation/)
+<p align="center"> source: https://gradientflow.com/best-practices-in-retrieval-augmented-generation/)
 </p>
 
 To ensure consistency in the Python module dependencies for this hands-on exercise, we will be using **Google Colab**.
