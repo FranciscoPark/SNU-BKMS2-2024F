@@ -1,7 +1,6 @@
 # SNU-BKMS2-2024F
 
 - **Instructor**: Prof. Sang-Won Lee (swlee69@snu.ac.kr)
-- **TA**:         snu.vldb.ta@gmail.com
 
 ## Table
 | # | Topic                   | Contents             | Tag                      | Time Table |
@@ -13,4 +12,4 @@
 
 
 ## Contact
-If you have a question regarding to the course, please contact the teaching assistant email (snu.vldb.ta@gmail.com)
+If you have a question regarding to the course, please contact the teaching assistant email
