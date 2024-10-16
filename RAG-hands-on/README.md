@@ -1,6 +1,6 @@
 # BKMS2 Hands-on #4: Developing a Q&A chatbot based on RAG
 - **Date**: 2024.10.15.
-- **Instructor**: Prof. Sang-Won Lee (swlee69@snu.ac.kr)
+- **Instructor**: Prof. Sang-Won Lee
 - **TA**:         Kun-Woo Shin (kunwooshin@snu.ac.kr)
 
 ## Overview
