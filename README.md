@@ -1,6 +1,6 @@
 # SNU-BKMS2-2024F
 
-- **Instructor**: Prof. Sang-Won Lee (swlee69@snu.ac.kr)
+- **Instructor**: Prof. Sang-Won Lee
 
 ## Table
 | # | Topic                   | Contents             | Tag                      | Time Table |
