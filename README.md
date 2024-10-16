@@ -12,4 +12,4 @@
 
 
 ## Contact
-If you have a question regarding to the course, please contact the teaching assistant email
+If you have a question regarding to the course, please contact the teaching assistant email in each session.
